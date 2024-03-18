@@ -2,6 +2,11 @@
 
 project for ecommerce website 
 
-| sl no | testcase  | condtition  | 
+|  1 | 2  | 3  |
+| ------------ | ------------ | ------------ |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
 
