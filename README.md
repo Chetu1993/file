@@ -4,7 +4,7 @@ project for ecommerce website
 
 | sl | testcase | condition |
 |-|-|-|-|
-|1| registering to website |passed
+|1| registering to website | passed
 |2| sign in |passed|
 |3| creating account by entering email id |passed
 |4| validation of name |passed
