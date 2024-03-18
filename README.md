@@ -2,7 +2,7 @@
 
 project for ecommerce website 
 
-|sl|testcase|condition|
+| sl | testcase | condition |
 |-|-|-|-|
 |1| registering to website |passed |
 |2| sign in | passed |
