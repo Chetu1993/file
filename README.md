@@ -11,4 +11,4 @@ project for ecommerce website
 |5| adding product to cart |passed
 |6| checkout and payments |passed
 |7| validation of product details |passed
-|-|-|-|-|
+
