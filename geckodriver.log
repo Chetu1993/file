@@ -1,0 +1,39 @@
+1714488123082	geckodriver	INFO	Listening on 127.0.0.1:51242
+1714488126110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cks_1\\AppData\\Local\\Temp\\rust_mozprofilesGZZ7O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1714488126618	Marionette	INFO	Marionette enabled
+1714488126720	Marionette	INFO	Listening on port 51250
+WebDriver BiDi listening on ws://127.0.0.1:51243
+Read port: 51250
+1714488127074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51243/devtools/browser/d987cb22-f2db-45f9-9edd-b5e406e30e57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationteststore.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationteststore.com."
+1714488147810	Marionette	INFO	Stopped listening on port 51250
+JavaScript warning: https://automationteststore.com/storefront/view/default/javascript/jquery-1.12.4.min.js, line 2: Script terminated by timeout at:
+pushStack@https://automationteststore.com/storefront/view/default/javascript/jquery-1.12.4.min.js:2:729
+eq@https://automationteststore.com/storefront/view/default/javascript/jquery-1.12.4.min.js:2:1145
+first@https://automationteststore.com/storefront/view/default/javascript/jquery-1.12.4.min.js:2:1042
+e.flexslider/a.doMath@https://automationteststore.com/storefront/view/default/javascript/jquery.flexslider.min.js:11:13783
+e.flexslider/a.setup/<@https://automationteststore.com/storefront/view/default/javascript/jquery.flexslider.min.js:11:13529
+
+Dynamically enable window occlusion 1
+Invalid port. Exiting...
+1714491244746	geckodriver	INFO	Listening on 127.0.0.1:53814
+1714491247771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\cks_1\\AppData\\Local\\Temp\\rust_mozprofileeaGBkA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1714491248178	Marionette	INFO	Marionette enabled
+1714491248278	Marionette	INFO	Listening on port 53822
+WebDriver BiDi listening on ws://127.0.0.1:53815
+Read port: 53822
+1714491248539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53815/devtools/browser/eca42f25-c6a8-44de-9d9c-771208ba5770
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationteststore.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationteststore.com."
+1714491278310	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1714491287862	Marionette	INFO	Stopped listening on port 53822
+Dynamically enable window occlusion 1
